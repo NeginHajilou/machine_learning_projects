@@ -1,3 +1,1 @@
-# machine_learning_projects
-
-## spam detection project
+3 the first project is a spam detection using both machine learning and deep learning.
